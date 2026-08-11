@@ -1,4 +1,6 @@
 body {
-    background-color: #b27ef7;
+    background-image: url(img/harrypotter.png);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
-
